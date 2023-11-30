@@ -1,7 +1,7 @@
 {
   "name": "Zigbee2MQTT Jerrm",
   "version": "1.33.2-1",
-  "slug": "zigbee2mqtt Jerrm",
+  "slug": "zigbee2mqtt_jerrm",
   "description": "Use your ZigBee devices without the vendor's bridge or gateway",
   "uart": true,
   "url": "https://github.com/jerrm/hassio-zigbee2mqtt/tree/master/zigbee2mqtt",
